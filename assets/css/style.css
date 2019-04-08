@@ -1,0 +1,90 @@
+
+body{
+
+    background: url("../images/HogwartsTrain.jpg");
+	background-size: 100%
+  }
+  
+  .jumbotron{
+  
+    background-color: #8B0000;
+    
+    color:goldenrod;
+  
+    border:5px grey solid;
+  
+    font: 2em Arial,sans-serif;
+  
+  }
+  
+  .ride{
+  
+    font-size:40px;
+  
+    color: whitesmoke;
+  
+  }
+  
+  
+  
+  .panel-body{
+  
+    border:5px grey solid;
+  
+  }
+  
+  .current ,.add{
+  
+    background-color: goldenrod;
+  
+    color:black;
+  
+    font-size:20px;
+  
+  }
+  
+  #trainTable{
+  
+    background-color:#efffff;
+  
+    color:black;
+  
+    font-size:20px;
+  
+    font: bold;
+  
+  }
+  
+  #trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+  
+    color:black;
+  
+    font-size:18px;
+  
+    background-color:#efffff;
+  
+  }
+  
+  .form-group{
+  
+    color: black;
+  
+    font-size:20px;
+  
+  }
+  
+  .btn{
+  
+    background-color:#8B0000;
+  
+    font-size:20px;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
